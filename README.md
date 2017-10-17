@@ -14,4 +14,3 @@ Weather data information is parsed by Ladybug > https://github.com/mostaphaRouds
 
 This page is built using [D3](https://github.com/mbostock/D3) and [Google Maps API](https://developers.google.com/maps/).
 
-tamupino
